@@ -43,8 +43,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/TU_USUARIO_GITHUB">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook,tex&langs=Kotlin,HTML,CSS,JavaScript,PHP"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChambaDarwin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChambaDarwin&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook,tex&langs=Kotlin,HTML,CSS,JavaScript,PHP"/>
   </a>
 </p>
+
 
